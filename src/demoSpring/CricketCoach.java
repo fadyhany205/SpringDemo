@@ -2,7 +2,7 @@ package demoSpring;
 
 public class CricketCoach implements Coach {
 	public CricketCoach() {
-		System.out.println("In Default constructor : CricketCoach");
+		System.out.println("In Default constructor : CricketCoach Smart");
 	}
 	private FortuneService fortuneService;
 	private String emailAddress,team;
